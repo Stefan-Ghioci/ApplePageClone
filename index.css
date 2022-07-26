@@ -1,0 +1,24 @@
+:root {
+    --text-contrast-accent: #FFFFFF;
+    --text-contrast-black: #F5F5F7;
+    --text-main: #888888;
+    --text-inactive: #838383;
+    --text-footnote: #6E6E73;
+    --text-accent: #0066CC;
+    --text-caption: #666666;
+    --text-nav: #424245;
+    --text-footnote-title: #1D1D1F;
+    --text-bold: #111111;
+    --text-active: #000000;
+
+    --background-main: #FFFFFF;
+    --background-paper: #F2F2F2;
+    --background-navbar: #E7E7E7;
+    --background-caption-line: #D6D6D6;
+    --background-graphbar: #888888;
+    --background-accent-hover: #147ce5;
+    --background-accent: #0071E3;
+    --background-accent-active: #0068D1;
+    --background-black: #111111;
+    --background-active: #000000;
+}
