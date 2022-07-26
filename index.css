@@ -1,0 +1,13 @@
+:root {
+    --text-contrast-accent: #FFFFFF;
+    --text-contrast-black: #F5F5F7;
+    --text-main: #888888;
+    --text-inactive: #838383;
+    --text-footnote: #6E6E73;
+    --text-accent: #0066CC;
+    --text-caption: #666666;
+    --text-nav: #424245;
+    --text-footnote-title: #1D1D1F;
+    --text-bold: #111111;
+    --text-active: #000000;
+}
